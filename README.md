@@ -116,13 +116,7 @@ I'm particularly interested in opportunities related to:
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Khadija-Rafia/Khadija-Rafia/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
