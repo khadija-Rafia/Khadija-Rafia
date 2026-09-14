@@ -110,7 +110,6 @@ I'm particularly interested in opportunities related to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khadija-Rafia&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadija-Rafia" alt="GitHub Streak" />
 </p>
 
